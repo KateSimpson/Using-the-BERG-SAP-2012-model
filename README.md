@@ -1,10 +1,10 @@
 # Using-the-BERG-SAP-2012-model
-Hi there
+Hi there,
 
-This is a repository for the inputs I have used to carry out sensitivity analysis using the BERG SAP 2012 Python model, developed by Steven Firth and Ben Halls.
+This is a repository for the inputs I have used to carry out a simple trial on local sensitivity analysis using the BERG SAP 2012 Python model, developed by Steven Firth and Ben Halls.
 
 The inputs are JSON files and labelled as follows:
-* 16-21: Represents the heating set point used (16-21), all other inputs remain the same
+* 16-21: Represents the heating set point used (16-21C), all other inputs remain the same
 
 * 16-21 WF: Represents Wall and Floor upgrades to minimum building regulation standards, for each heating set point (16-21)
 
