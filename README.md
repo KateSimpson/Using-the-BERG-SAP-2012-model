@@ -22,7 +22,7 @@ The table below summarises this.
 |Roof	        |41.4           |0.68              |0.15               |	0.13            |
 |Party wall   |38.5           |0.5               |0.5                |	0.5             |
 
-It is a bit of an experiement for me to use an open model here and share input files so please get in touch if I have missed anything, something is unclear or just to discuss!
+It is a bit of an experiment for me to use an open model here and share input files so please get in touch if I have missed anything, something is unclear or just to discuss!
 
 Hope this is helpful for future users of the BERG model, or anybody who wishes to reproduce findings from my own research. I am grateful to the model creators for sharing their work openly and hope it inspires further open work in energy demand research.
 
